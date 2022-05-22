@@ -1,6 +1,6 @@
 # AQLRV32 - Simple 3-stage pipeline RISC-V processor
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d14f73089d014a87beb91960e9340617)](https://www.codacy.com/manual/kuopinghsu/aqlrv32/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=kuopinghsu/aqlrv32&amp;utm_campaign=Badge_Grade)
+<!-- [![Codacy Badge](https://app.codacy.com/project/badge/Grade/d14f73089d014a87beb91960e9340617)](https://www.codacy.com/manual/kuopinghsu/aqlrv32/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=kuopinghsu/aqlrv32&amp;utm_campaign=Badge_Grade) -->
 
 This is a simple RISC-V 3-stage pipeline processor and supports FreeRTOS.
 I wrote this code to understand the RV32IM instruction set, just for fun.
